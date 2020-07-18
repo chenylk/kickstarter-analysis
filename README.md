@@ -1,7 +1,7 @@
 # An analysis of kickstarter campaigns
 
 ## Overview of Project
-  * In this project, I analyzed two different data sets to help Louise determine the best course of action for her fundraiser for the play "fever".
+  * In this project, I analyzed two different data sets to help Louise determine the best course of action for her fundraiser, the play "fever".
 
 ## Analysis and Challenges
   * I started with an entire dataset of kickstarters with a wide array of goals and categories. A challange was to determine how to filter the data to best suit Louise's project. it was determined that we would analyze the outcomes of the kickstarters based on launch date and goals. A limitation of the dataset is the 
