@@ -4,10 +4,10 @@
   * In this project, I analyzed two different data sets to help Louise determine the best course of action for her fundraiser for the play "fever".
 
 ## Analysis and Challenges
-  * I started with an entire dataset of kickstarters with a wide array of goals and categories. A challange was to determine how to filter the data to best suit Louise's project. it was determined that we would analyze the outcomes of the kickstarters based on launch date and goals. 
+  * I started with an entire dataset of kickstarters with a wide array of goals and categories. A challange was to determine how to filter the data to best suit Louise's project. it was determined that we would analyze the outcomes of the kickstarters based on launch date and goals. A limitation of the dataset is the 
 
   ### Analysis of Outcomes Based on Launch Date
-   *From previous kickstarters in the category of "theatre", the most successful kickstarters were launched in May. If not May, the summer months of April through August would be the best times to launch the campaign. The least succesful campaign launches seemed to have started in the winter months of September through March.
+   *From previous kickstarters in the category of "theatre", the most successful kickstarters were launched in May. If not May, the summer months of April through August would be the best times to launch the campaign. The least succesful campaign launches seemed to have started in the winter months of September through March. Furthermore, the failed kickstarters had no trends in terms of when they launched throughout the year. 
     
 ![Theater_Outcomes_vs_Launch](https://github.com/chenylk/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png).
   
